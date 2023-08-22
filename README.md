@@ -18,8 +18,7 @@ Currently, I'm focused on . I'm excited to .
 
 ## 📫 How to Reach Me
 
-- You can connect with me on [Your Preferred Social Media Links or Platforms].
-- Feel free to reach out via email at [Your Email Address].
+- Feel free to reach out via email [here](l1joseph@ucsd.edu).
 
 ## 🚀 My GitHub Stats
 
